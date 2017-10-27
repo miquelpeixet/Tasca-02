@@ -7,7 +7,7 @@ Enllaç de Rawgit a la pàgina web creada [aquí](https://rawgit.com/miquelpeixe
 A continuació s'expliquen de manera molt breu els principals punts desenvolupats per dur a terme la tasca. 
 
 **1.- HTML i tractament de fotografies**   
-Per crear la pàgina web una de les primeres tasques ha estat l'inici de redacció del document html. Després, hem fet una selecció d'imatges que posteriorment hem hagut de tractar, amb l'objectiu de reduir la seva mida. Ho hem fet emprant l'eina [Tiny Png](https://tinypng.com), tal i com es pot veure en la imatge següent: ![Captura Tiny png](https://github.com/miquelpeixet/Tasca-02/blob/master/Captures%20de%20pantalla/Tiny-png-1.png)
+Per crear la pàgina web una de les primeres tasques ha estat l'inici de redacció del document html. Després, hem fet una selecció d'imatges que posteriorment hem hagut de tractar, amb l'objectiu de reduir la seva mida. Ho hem fet emprant l'eina [Tiny Png](https://tinypng.com), tal i com es pot veure en la imatge següent: !(https://github.com/miquelpeixet/Tasca-02/blob/master/Captures%20de%20pantalla/Tiny-png-1.png)
 
 **2.- Github i Rawgit**  
 Com a la tasca anterior hem creat un repositori a Github, on hem pujat l'arxiu html (nom: índex) i hem fet una carpeta (nom: img) on hem pujat les imatges que apareixen a la web per tal de poder enllaçar-les amb l'html. Per enllaçar les imatges he tengut diversos problemes i m'he hagut d'ajudar del foro i, gràcies als diversos comentaris dels companys, finalment me n'he pogut sortir. 
