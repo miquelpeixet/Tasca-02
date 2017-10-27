@@ -16,7 +16,6 @@ La pàgina de Rawgit ens permet obtenir un enllaç de la web que hem creada, que
 **3.- Validador**   
 Finalment hem passat el [validador](https://validator.w3.org) per comprovar si hi havia possibles errades en l'arxiu html, a pesar que la web es pogués visualitzar. En el meu cas, la primera vegada m'ha mostrat una advertència (warning) i 6 errades, que finalment he pogut esmenar amb l'ajuda, una vegada més, dels companys de classe. A les dues imatges següents es veu el pas de la detecció de les errades (1a imatge) a la validació sense més errades que l'advertència (segona imatge).     
 
-!(https://github.com/miquelpeixet/Tasca-02/blob/master/Captures%20de%20pantalla/Validator-1.png)
+![Detecció d'errors](https://github.com/miquelpeixet/Tasca-02/blob/master/Captures%20de%20pantalla/Validator-1.png)
 
-!(https://github.com/miquelpeixet/Tasca-02/blob/master/Captures%20de%20pantalla/Validator-OK-.png)
-
+![Validació sense errors](https://github.com/miquelpeixet/Tasca-02/blob/master/Captures%20de%20pantalla/Validator-OK-.png)
