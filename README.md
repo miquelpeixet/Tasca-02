@@ -14,8 +14,9 @@ Com a la tasca anterior hem creat un repositori a Github, on hem pujat l'arxiu h
 La pàgina de Rawgit ens permet obtenir un enllaç de la web que hem creada, que obtenim enganxant l'url del nostre arxiu index.html a l'espai que ens ofereix Rawgit. Això permet comprovar si la web es visualitza bé i, a més, passar el validador per comprovar que la sintaxi de la web és correcte. 
 
 **3.- Validador**   
-Finalment hem passat el [validador](https://validator.w3.org) per comprovar si hi havia possibles errades en l'arxiu html, a pesar que la web es pogués visualitzar. En el meu cas, la primera vegada m'ha mostrat una advertència (warning) i 6 errades, que finalment he pogut esmenar amb l'ajuda, una vegada més, dels companys de classe. A les dues imatges següents es veu el pas de la detecció de les errades a la validació sense més errades que l'advertència.   
-[Captura amb part de les errades](Tasca-02/Captures de pantalla/Validator-1.png)
+Finalment hem passat el [validador](https://validator.w3.org) per comprovar si hi havia possibles errades en l'arxiu html, a pesar que la web es pogués visualitzar. En el meu cas, la primera vegada m'ha mostrat una advertència (warning) i 6 errades, que finalment he pogut esmenar amb l'ajuda, una vegada més, dels companys de classe. A les dues imatges següents es veu el pas de la detecció de les errades a la validació sense més errades que l'advertència.     
 
-[Captura sense errades](https://github.com/miquelpeixet/Tasca-02/blob/master/Captures%20de%20pantalla/Validator-OK-.png)
+![Captura amb part de les errades](Tasca-02/Captures de pantalla/Validator-1.png)
+
+![Captura sense errades](https://github.com/miquelpeixet/Tasca-02/blob/master/Captures%20de%20pantalla/Validator-OK-.png)
 
