@@ -11,11 +11,11 @@ Per crear la pàgina web una de les primeres tasques ha estat l'inici de redacci
 ![Captura Tiny Png](https://github.com/miquelpeixet/Tasca-02/blob/master/Captures%20de%20pantalla/Tiny-png-1.png)
 
 **2.- Github i Rawgit**  
-Com a la tasca anterior hem creat un repositori a Github, on hem pujat l'arxiu html (nom: índex) i hem fet una carpeta (nom: img) on hem pujat les imatges que apareixen a la web per tal de poder enllaçar-les amb l'html. Per enllaçar les imatges he tengut diversos problemes i m'he hagut d'ajudar del foro i, gràcies als diversos comentaris dels companys, finalment me n'he pogut sortir. 
+Com a la tasca anterior hem creat un repositori a Github, on hem pujat l'arxiu html (nom: índex) i hem fet una carpeta (nom: img) on hem pujat les imatges que apareixen a la web per tal de poder enllaçar-les a l'html. Per enllaçar les imatges he tengut diversos problemes i m'he hagut d'ajudar del foro i, gràcies als diversos comentaris dels companys, finalment me n'he pogut sortir.   
 La pàgina de Rawgit ens permet obtenir un enllaç de la web que hem creada, que obtenim enganxant l'url del nostre arxiu index.html a l'espai que ens ofereix Rawgit. Això permet comprovar si la web es visualitza bé i, a més, passar el validador per comprovar que la sintaxi de la web és correcte. 
 
 **3.- Validador**   
-Finalment hem passat el [validador](https://validator.w3.org) per comprovar si hi havia possibles errades en l'arxiu html, a pesar que la web es pogués visualitzar. En el meu cas, la primera vegada m'ha mostrat una advertència (warning) i 6 errades, que finalment he pogut esmenar amb l'ajuda, una vegada més, dels companys de classe. A les dues imatges següents es veu el pas de la detecció de les errades (1a imatge) a la validació sense més errades que l'advertència (segona imatge).     
+Finalment hem passat el [validador](https://validator.w3.org) per comprovar si hi havia possibles errades en l'arxiu html, a pesar que la web es pogués visualitza correctament als navegadors. En el meu cas, la primera vegada m'ha mostrat una advertència (warning) i 6 errades, que finalment he pogut esmenar amb l'ajuda, una vegada més, dels companys de classe. A les dues imatges següents es veu el pas de la detecció de les errades (1a imatge) a la validació sense més errades que l'advertència (segona imatge).     
 
 ![Detecció d'errors](https://github.com/miquelpeixet/Tasca-02/blob/master/Captures%20de%20pantalla/Validator-1.png)  
 
