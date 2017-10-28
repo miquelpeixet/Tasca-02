@@ -1,7 +1,7 @@
 # Tasca-02
 ### **Enllaç:**
 
-Enllaç de Rawgit a la pàgina web creada [aquí](https://rawgit.com/miquelpeixet/Tasca-02/master/index.html)
+Enllaç de Rawgit a la pàgina web creada [aquí.](https://rawgit.com/miquelpeixet/Tasca-02/master/index.html)
 
 ### **Resum de la tasca feta**  
 A continuació s'expliquen de manera molt breu els principals punts desenvolupats per dur a terme la tasca. 
